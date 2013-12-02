@@ -1,3 +1,5 @@
+This is a set of exercises that I completed during week 3 of Launch Academy
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
